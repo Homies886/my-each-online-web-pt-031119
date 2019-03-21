@@ -6,8 +6,3 @@ def my_each(array)
   end
   array
 end
-
-
-def popcorn(array2)
-  return array[counter]
-end
